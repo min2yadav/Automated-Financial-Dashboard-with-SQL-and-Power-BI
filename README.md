@@ -8,7 +8,7 @@ Features
 Data Transformation and Querying: SQL queries were used to extract and transform raw GDP data. \
 Power BI Visualization: Linked the SQL server to Power BI and utilized Power Query for real-time data updates. \
 ETL Automation: Automated the ETL process by managing SQL server jobs, ensuring continuous data flow from the source to the dashboard. \
-Files in the Repository 
+
 
 gdp_dashboard.pbix: The Power BI file containing the dashboard. \
 SQLQuery1.sql: SQL script used to query and transform the GDP data. \
